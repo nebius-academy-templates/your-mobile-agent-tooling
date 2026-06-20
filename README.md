@@ -1,3 +1,5 @@
+# Practice: Agent Tooling
+
 ⌨️ In this practice task, you'll connect a PR review agent to GitHub through an MCP server and run an end-to-end review against a live pull request from the practice repository.
 
 ## 👩‍💻 Workflow at a glance
